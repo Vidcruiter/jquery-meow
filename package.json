@@ -1,0 +1,19 @@
+{
+  "name": "jquery-meow",
+  "version": "1.0.0",
+  "description": "A plugin to provide Growl-like notifications",
+  "main": "jquery.meow.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vidcruiter/jquery-meow.git"
+  },
+  "author": "zacstewart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vidcruiter/jquery-meow/issues"
+  },
+  "homepage": "https://github.com/Vidcruiter/jquery-meow#readme"
+}
